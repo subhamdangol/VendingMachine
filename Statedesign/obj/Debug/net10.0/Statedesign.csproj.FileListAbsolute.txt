@@ -1,0 +1,15 @@
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\bin\Debug\net10.0\Statedesign.exe
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\bin\Debug\net10.0\Statedesign.deps.json
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\bin\Debug\net10.0\Statedesign.runtimeconfig.json
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\bin\Debug\net10.0\Statedesign.dll
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\bin\Debug\net10.0\Statedesign.pdb
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\Statedesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\Statedesign.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\Statedesign.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\Statedesign.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\Statedesign.dll
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\refint\Statedesign.dll
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\Statedesign.pdb
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\Statedesign.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\ref\Statedesign.dll
+C:\Users\acer\OneDrive\Desktop\c#\Statedesign\Statedesign\obj\Debug\net10.0\Statedes.F8B6DA6C.Up2Date

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|c:\\users\\acer\\onedrive\\desktop\\c#\\statedesign\\statedesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|solutionrelative:statedesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|c:\\users\\acer\\onedrive\\desktop\\c#\\statedesign\\statedesign\\context\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|solutionrelative:statedesign\\context\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|c:\\users\\acer\\onedrive\\desktop\\c#\\statedesign\\statedesign\\states\\moneyinsertedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|solutionrelative:statedesign\\states\\moneyinsertedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|c:\\users\\acer\\onedrive\\desktop\\c#\\statedesign\\statedesign\\states\\productdispensedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|solutionrelative:statedesign\\states\\productdispensedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|c:\\users\\acer\\onedrive\\desktop\\c#\\statedesign\\statedesign\\interface\\ivendingmachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|solutionrelative:statedesign\\interface\\ivendingmachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|c:\\users\\acer\\onedrive\\desktop\\c#\\statedesign\\statedesign\\states\\idelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326BF8AE-ACE9-4BC7-9EB5-F6734B3C4D55}|Statedesign\\Statedesign.csproj|solutionrelative:statedesign\\states\\idelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\Context\\VendingMachine.cs",
+              "RelativeDocumentMoniker": "Statedesign\\Context\\VendingMachine.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\Context\\VendingMachine.cs*",
+              "RelativeToolTip": "Statedesign\\Context\\VendingMachine.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:22:02.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\Program.cs",
+              "RelativeDocumentMoniker": "Statedesign\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\Program.cs*",
+              "RelativeToolTip": "Statedesign\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:07:52.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDispensedState.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\States\\ProductDispensedState.cs",
+              "RelativeDocumentMoniker": "Statedesign\\States\\ProductDispensedState.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\States\\ProductDispensedState.cs*",
+              "RelativeToolTip": "Statedesign\\States\\ProductDispensedState.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:20:03.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoneyInsertedState.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\States\\MoneyInsertedState.cs",
+              "RelativeDocumentMoniker": "Statedesign\\States\\MoneyInsertedState.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\States\\MoneyInsertedState.cs*",
+              "RelativeToolTip": "Statedesign\\States\\MoneyInsertedState.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:16:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVendingMachineState.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\Interface\\IVendingMachineState.cs",
+              "RelativeDocumentMoniker": "Statedesign\\Interface\\IVendingMachineState.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\Interface\\IVendingMachineState.cs*",
+              "RelativeToolTip": "Statedesign\\Interface\\IVendingMachineState.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:13:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdelState.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\States\\IdelState.cs",
+              "RelativeDocumentMoniker": "Statedesign\\States\\IdelState.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\c#\\Statedesign\\Statedesign\\States\\IdelState.cs*",
+              "RelativeToolTip": "Statedesign\\States\\IdelState.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:14:09.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
